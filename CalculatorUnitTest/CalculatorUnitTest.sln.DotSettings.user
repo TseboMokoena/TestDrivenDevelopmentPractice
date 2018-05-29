@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\packages\Unity.5.6.0\lib\net45\CommonServiceLocator.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=134F6D3408BC0C49B092CB941BEE6934/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=134F6D3408BC0C49B092CB941BEE6934/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=134F6D3408BC0C49B092CB941BEE6934/Name/@EntryValue">CalculatorIntergrationTest</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=134F6D3408BC0C49B092CB941BEE6934/ProjectGuid/@EntryValue">A5CB65EF3CB31B41A3FCEEE11087F656</s:String>
+	
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=14E8E2D83AB4904E8CD73B7432051D1F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=14E8E2D83AB4904E8CD73B7432051D1F/Name/@EntryValue">CalculatorIntergrationTest</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=14E8E2D83AB4904E8CD73B7432051D1F/ProjectGuid/@EntryValue">A5CB65EF3CB31B41A3FCEEE11087F656</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=14E8E2D83AB4904E8CD73B7432051D1F/Type/@EntryValue">project</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,46 @@
+
+Log Entry :
+Time: 10:27:08
+Date: Thursday, 22 February 2018
+The result is: 6
+-------------------------------
+Log Entry :
+Time: 10:27:18
+Date: Thursday, 22 February 2018
+The result is: 7
+-------------------------------
+Log Entry :
+Time: 11:22:25
+Date: Thursday, 22 February 2018
+The result is: 6
+-------------------------------
+Log Entry :
+Time: 11:33:49
+Date: Thursday, 22 February 2018
+The result is: 6
+-------------------------------
+Log Entry :
+Time: 11:33:59
+Date: Thursday, 22 February 2018
+The result is: 0
+-------------------------------
+Log Entry :
+Time: 11:34:15
+Date: Thursday, 22 February 2018
+The result is: 36
+-------------------------------
+Log Entry :
+Time: 11:58:44
+Date: Thursday, 22 February 2018
+The result is: 51
+-------------------------------
+Log Entry :
+Time: 16:05:16
+Date: Thursday, 22 February 2018
+The result is: 35
+-------------------------------
+Log Entry :
+Time: 16:13:09
+Date: Thursday, 22 February 2018
+The result is: 7
+-------------------------------

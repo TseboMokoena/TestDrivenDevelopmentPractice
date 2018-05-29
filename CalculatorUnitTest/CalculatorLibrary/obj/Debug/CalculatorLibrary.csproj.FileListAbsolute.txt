@@ -1,0 +1,11 @@
+C:\Users\Tsebo.Mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\Tsebo.Mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Tsebo.Mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Tsebo.Mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\Tsebo.Mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

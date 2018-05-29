@@ -1,0 +1,16 @@
+
+Log Entry :
+Time: 16:07:07
+Date: Thursday, 22 February 2018
+The result is: 10
+-------------------------------
+Log Entry :
+Time: 16:08:21
+Date: Thursday, 22 February 2018
+The result is: 6
+-------------------------------
+Log Entry :
+Time: 08:36:18
+Date: Friday, 23 February 2018
+The result is: 6
+-------------------------------

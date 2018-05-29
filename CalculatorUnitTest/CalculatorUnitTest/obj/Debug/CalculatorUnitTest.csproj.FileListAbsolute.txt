@@ -1,0 +1,58 @@
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.dll
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.pdb
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csprojResolveAssemblyReference.cache
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.dll
+c:\users\tsebo.mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb
+C:\Users\Tsebo.Mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorLibrary.dll
+C:\Users\Tsebo.Mokoena\documents\visual studio 2017\Projects\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.dll.config
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.pdb
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorConsole.exe
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorLibrary.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Castle.Core.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\FluentAssertions.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Moq.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\System.ValueTuple.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\UnityConfiguration.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Unity.Container.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Unity.Abstractions.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorConsole.pdb
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorConsole.exe.config
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Castle.Core.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\FluentAssertions.pdb
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\FluentAssertions.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Moq.pdb
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Moq.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\UnityConfiguration.xml
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\Unity.Container.pdb
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.dll
+C:\Users\Tsebo.Mokoena\Documents\kata1\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb
